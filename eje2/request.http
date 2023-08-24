@@ -1,0 +1,12 @@
+
+POST  http://localhost:3000/countries
+Content-Type: application/json
+
+  {
+    "Name":"monteros",     
+    "Lenguaje":"Español"
+  }
+
+###########
+
+GET   http://localhost:3000/countries

@@ -1,0 +1,6 @@
+Exponse:  10.00
+Exponse:  20.00
+Total:  30.00
+Maximo:  20.00
+Minimo:  10.00
+Average:  15.00
